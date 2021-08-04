@@ -1,0 +1,32 @@
+{
+  "name": "enclica-game-engine-ege-",
+  "version": "0.0.1",
+  "description": "EGE is a game engine using electron and threejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enclica/Enclica-game-engine-EGE-.git"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "games",
+    "dev",
+    "tools"
+  ],
+  "author": "Enclica software INC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enclica/Enclica-game-engine-EGE-/issues"
+  },
+  "homepage": "https://github.com/enclica/Enclica-game-engine-EGE-#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "electron": "^13.1.8",
+    "jquery": "^3.6.0",
+    "three.js": "^0.77.1"
+  }
+}
